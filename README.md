@@ -1,6 +1,3 @@
-# Self-Correcting-RAG-Agent
-
-
 # Self-Correcting RAG Agent
 
 An AI agent that retrieves documents, checks their quality, and rewrites queries when needed.
